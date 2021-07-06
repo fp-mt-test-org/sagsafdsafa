@@ -1,0 +1,6 @@
+config:
+  host: sagsafdsafa.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  namespace: sagsafdsafa-dev
+  image:
+    name: artifactory.flexport.io/sagsafdsafa-docker-dev-local/sagsafdsafa
+    tag: 0.0.1-SNAPSHOT

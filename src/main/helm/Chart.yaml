@@ -1,0 +1,6 @@
+apiVersion: v2
+name: sagsafdsafa
+description: Chart for creating sagsafdsafa and ingress mapping our Flexport EKS clusters
+
+type: application
+version: 0.1.0
